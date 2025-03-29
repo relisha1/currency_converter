@@ -31,7 +31,6 @@ currency-converter/
 
 - Currency conversion between major global currencies
 - Static dropdown menus for currency selection
-- Real-time data from RapidAPI
 - Fully responsive design (mobile/tablet/desktop)
 - Error handling for invalid input and API issues
 
@@ -132,16 +131,15 @@ Repeat on both Web01 and Web02.
 
 ---
 
+✅ Demo Video
+
+https://drive.google.com/file/d/1zm5L3MpWIZRwHv_yn9FNxoCZgvaqHMH0/view?usp=drive_link
+
 ## 🙏 Credits
 
 - 💹 API by [https://billing.currencyfreaks.com)
 - 🔀 NGINX Load Balancer [Docs](https://nginx.org/en/docs/)
 - 🖥️ Hosting & server setup via Ubuntu web stack
 
----
 
-## 📃 License
-
-This project is for educational purposes and classroom use.  
-Feel free to adapt it for your learning or portfolio.
 
